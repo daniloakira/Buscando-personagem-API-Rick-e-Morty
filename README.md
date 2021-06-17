@@ -1,6 +1,6 @@
 ## Buscando Personagem na API Rick e Morty
 
-<img src="/img/titulo.png" alt="img" style="zoom:40%;" />
+<img src="/img/titulo.png" alt="img" style="zoom:10%;" />
 
 Projeto individual com a API do Rick e Morty
 
