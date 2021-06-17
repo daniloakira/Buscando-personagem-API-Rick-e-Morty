@@ -1,0 +1,32 @@
+
+.container{
+  display: grid;
+  align-items: center;
+  text-align: center;
+  margin-top: -50px;
+  
+}
+
+.form-group{
+  display: grid;
+  align-items: center;
+  text-align: center;
+  margin: 0px 800px 0px 800px;
+  background: aliceblue;
+}
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 70px;
+  color: rgb(107, 211, 4);
+  
+}
+body{
+  background: url("img/rick-and-morty-sky-stars-uhdpaper.com-4K-5.118.jpg") no-repeat right top fixed;
+  
+}
+
+
+#image{
+  width: 305px;
+  height: 280px;
+}
